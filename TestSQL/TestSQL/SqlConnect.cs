@@ -19,7 +19,7 @@ namespace TestSQL
 
                 //접속하기
                 MySqlConnection conn = new MySqlConnection(ConnectionAddress);
-
+                 
                 //오픈
                 conn.Open();
 
